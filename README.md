@@ -1,1 +1,1 @@
-# practicas-php
+# repositorio del segundo trimestre.
